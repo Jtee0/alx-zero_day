@@ -1,2 +1,2 @@
 My second commit
-My first programming
+How to be up to date in git
